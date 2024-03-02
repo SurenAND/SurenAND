@@ -102,9 +102,9 @@
 </p>
 
 <a> 
-    <a href="https://github.com/surenand"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=surenand&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/surenand"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=surenand&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/surenand"><img alt="AshkanZjj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=surenand&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/surenand"><img alt="AshkanZjj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=surenand&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![AshkanZjj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=surenand&custom_title=AshkanZjj's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=b2bec3&point=a29bfe&area_color=a29bfe&title_color=FFFFFF&area=true)
+![AshkanZjj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=surenand&custom_title=AshkanZjj's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=a29bfe&line=b2bec3&point=7F3FBF&area_color=a29bfe&title_color=FFFFFF&area=true)
