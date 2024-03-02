@@ -79,7 +79,7 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/surenand/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/surenand/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/surenand/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=surenand&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/surenand/surenand)
+[![AshkanZjj Readme](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=surenand&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/surenand/surenand)
 
 <p align="left">
   <a href="https://github.com/surenand?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -91,13 +91,13 @@
 
 <p align="center">
   <a href="https://github.com/surenand">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surenand&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surenand&theme=radical&border=7F3FBF&background=0D1117" alt="AshkanZjj's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/surenand">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surenand&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surenand&theme=radical" alt="AshkanZjj's GitHub Contribution"/>
   </a>
 </p>
 
