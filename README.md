@@ -1,6 +1,6 @@
 ![MasterHead](https://i.postimg.cc/D0BXvpkc/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Ashkan</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src = "https://i.postimg.cc/fRkwfWMX/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surenand&label=Profile%20views&color=0e75b6&style=flat" alt="surenand" /> </p>
