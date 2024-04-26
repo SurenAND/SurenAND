@@ -78,7 +78,7 @@
 
 [![Todo Tailwind](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=todo-tailwind&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/todo-tailwind)
 [![Movie API](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=movie-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/movie-api)
-[![FM Blog Card](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=FM-blog-card&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/FM-blog-card)
+[![Shoa Shop](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=shoe-shop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/shoe-shop)
 [![FM Signup Form](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=FM-signup-form&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/FM-signup-form)
 
 <p align="left">
