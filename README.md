@@ -79,7 +79,7 @@
 [![Shoa Shop](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=shoe-shop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/shoe-shop)
 [![Quiz Web App](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=quiz-web-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/quiz-web-app)
 [![Todo Tailwind](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=todo-tailwind&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/todo-tailwind)
-[![Movie API](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=movie-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/movie-api)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=surenand&repo=weather-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SurenAND/weather-app-reactjs)
 
 
 <p align="left">
