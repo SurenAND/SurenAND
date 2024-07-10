@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/D0BXvpkc/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+![MasterHead](https://github.com/SurenAND/SurenAND/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
     <br>
     <br>
 <p align="center"> <a href="https://komarev.com/ghpvc/?username=surenand">
